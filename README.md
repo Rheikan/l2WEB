@@ -1,6 +1,7 @@
 #Template para servidores Lineage o cualquier juego que lleve base de datos, escrito en Laravel.
 
 Tiene algunas cosas como el acceso a la BD (hay que cambiar los nombres de las tablas por los que ya tienes)
+<br>
 -Login para ver chars
 -Posteo de noticias dependiendo el id del admin
 -cambio de contraseña
