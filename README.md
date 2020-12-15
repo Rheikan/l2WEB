@@ -2,12 +2,12 @@
 
 Tiene algunas cosas como el acceso a la BD (hay que cambiar los nombres de las tablas por los que ya tienes)
 <br>
--Login para ver chars
--Posteo de noticias dependiendo el id del admin
--cambio de contraseña
--envio de emails con token de seguridad
--y algunas tonterias mas.
-
+-Login para ver chars<br>
+-Posteo de noticias dependiendo el id del admin<br>
+-cambio de contraseña<br>
+-envio de emails con token de seguridad<br>
+-y algunas tonterias mas.<br>
+<hr>
 
 Revisar el archivo .ENV que es donde se va a alojar y los datos de la BD y envio de emails.
 
