@@ -8,9 +8,21 @@ Tiene algunas cosas como el acceso a la BD (hay que cambiar los nombres de las t
 -envio de emails con token de seguridad<br>
 -y algunas tonterias mas.<br>
 <hr>
-
+Antes de Empezar, posicionate en la carpeta raiz e instala Composer.
+<br>
+Composer Install
+<br>
+Esto instalara todos los componentes de Laravel.
+<br>
+Luego npm install & npm run dev
+<br>
+para esto debes tener instalado node.js y composer en la pc.
+<br> 
+el resto es puro laravel.
+<br>
+<br>
 Revisar el archivo .ENV que es donde se va a alojar y los datos de la BD y envio de emails.
-
+<hr>
 En Models, estan las tablas que deberia tener el juego.
 En Controllers donde se controlaran acciones.
 En Resources/View los html a mostrar en formato Blade.
