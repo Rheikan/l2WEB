@@ -1,0 +1,170 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+.barra
+{
+    background-color: #0c0c0c;
+}
+
+.cuerpo
+{
+    background-image: url('/css/images/back.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.box
+{
+    margin-top: 15%;
+    margin-bottom: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color:  #0c0c0cf5;
+
+}
+
+.char
+{
+    max-height: 400px;
+}
+
+.pics
+{
+    vertical-align: middle;
+}
+
+.cpic
+{
+    max-height: 600px;
+}
+.footer-copyright
+{
+    background-color: #0c0c0c;
+}
+
+.status
+{
+    box-shadow: 0px 0px 20px #00ff00;
+}
+
+.statusno
+{
+    box-shadow: 0px 0px 20px #ff1404;
+}
+
+.pj
+{
+    background: url('/css/images/estrellas.gif');
+}
+
+.Mensaje
+{
+    display: block;
+    position: fixed;
+    right: 40px;
+    bottom: 50px;
+    z-index: 9999;
+    background-color: #4b0082 !important;
+    color: #FFF !important;
+}
+
+.token
+{
+    width: 250px;
+}
+
+#descarga p
+{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#descarga p:hover
+{
+    text-decoration: none;
+    color: #0c0c0c;
+}
+
+.dbox:hover
+{
+    filter: contrast(120%);
+    border: solid 1px #00ff00;
+}
+
+.twich
+{
+    filter: grayscale(110%);
+}
+.twich:hover
+{
+    filter: grayscale(0%);
+    filter: contrast(105%);
+    border: solid 1px #f51950;
+}
+
+.tw
+{
+    text-shadow: 1px 2px 2px #0c0c0c;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.face
+{
+    background: transparent;
+    margin: 0;
+    padding: 10px;
+    
+    
+}
+.face-i
+{
+    
+    max-height: 100px;
+}
+
+.face-t:hover
+{
+    text-decoration: none;
+}
+
+.barbutd
+{
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#vote{
+    margin-top: 1%;
+}
+#vote li{
+    display: inline-block;
+}
+.vote{
+    
+    height: 75px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 0;
+    -moz-filter: contrast(80%);
+    -webkit-filter: contrast(80%);
+    filter: contrast(80%);
+    background: #FFF;
+}
+.vote:hover{
+    box-shadow: 0px 0px 5px #ff0000;
+    -moz-filter: contrast(120%);
+    -webkit-filter: contrast(120%);
+    filter: contrast(120%);
+}
